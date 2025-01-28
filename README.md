@@ -15,7 +15,7 @@ Current features are:
 * Command to open the menu is controlled via config.lua
 * Mouse-driven menu
 * QB-Core requirement at this time
-* Codeplug selections are based on job and rank codes (multiple jobs with ranks allowed)
+* Codeplug selections are based on job (multiple jobs per codeplug)
 * Simply uses the execute command to interact with the FiveM script for WhackerLink
 
 I appreciate what WhackerLink has brought to not only the FiveM community, but to the radio community also!  I will continue to incorporate changes as needed.
