@@ -6,6 +6,8 @@ For my other scripts, please visit:  https://store.salskewlkorner.com/
 
 A simple menu system to use with WhackerLink FiveM integrated radio system
 
+Here is a video of the menu in action: https://youtu.be/pvinvg3nCfU
+
 This was created and used by our community, Jersey Coast RP (discord.jcrp.net) to make it easy for our players to access their two-way radio. 
 
 Current features are:
